@@ -33,6 +33,8 @@ https://github.com/blueimp/jQuery-File-Upload
 
 ・formのidをfileuploadに。
 
+ファイルダイアログからファイルを選択すると、_onchange()が呼び出されます。
+
 *要因の対応策*
 
 ----------------
